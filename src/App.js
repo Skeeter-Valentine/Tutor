@@ -45,7 +45,7 @@ function App() {
 					<div class="container">
 
 						
-							<a href="" class="image featured">
+							<a class="image featured">
                 <img src={maura} alt="" />
 							</a>
 
@@ -68,7 +68,7 @@ function App() {
 												<h3 class="icon solid fa-sync">Lap top video conference with screen share</h3>
 												<p>Another method that I have found to be effective for tutoring when a student is working on problems on their computer is to share their screen with me on a program such as google meet or zoom. The students can verbally walk through their thought processes while we work through an assignment online. </p>
 											</section>
-										</div>							<a href="" class="image featured"><ReactPlayer url= "https://www.youtube.com/watch?v=HADMYIr-X6k"/>	</a>				
+										</div>							<a  class="image featured"><ReactPlayer url= "https://www.youtube.com/watch?v=HADMYIr-X6k"/>	</a>				
 									</div>
 								</div> 
 							</section>
