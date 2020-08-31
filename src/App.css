@@ -1617,6 +1617,7 @@ input, select, textarea {
 		.image.featured {
 			display: flex;
 			justify-content: center;
+			align-items: center;
 			width: 100%;
 			margin: 0 0 2em 0;
 		}

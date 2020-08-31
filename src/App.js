@@ -52,7 +52,7 @@ function App() {
 						
 							<section id="features">
 								<header class="style1">
-									<h2>Simulate in person learning</h2>
+									<h2>Simulate in-person learning</h2>
 									<p>In my years of tutoring, I have tried several different strategies for virtual learning. These are the strategies that I have found most effective.</p>
 								</header>
 								<div class="feature-list">
