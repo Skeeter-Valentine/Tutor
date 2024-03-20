@@ -29,13 +29,13 @@ function App() {
 				<section id="intro" class="wrapper style1">
 					<div class="title">Introduction</div>
 					<div class="container">
-						<p class="style1">Hi, I'm Brenden! I'm a high school math and science tutor with more than five years of tutoring experience. I have tutored more than 50 different students online and in person, but have moved my business online due to COVID-19 and to expand my tutoring worldwide!</p>
+						<p class="style1">Hi, I'm Brenden! I'm a high school math and science tutor with more than ten years of tutoring experience, tutoring more than 100 different students online and in person. </p>
 						<p class="style2">
 							I tutor all subjects in highschool math (algebra-calculus) as well as physics, chemistry, and SAT prep!
 						</p>
 					</div>
 					<ul class="actions">
-						<li><a href="mailto:virtualtutor24@gmail.com" class="button style3 large">Email for booking!</a></li>
+						<li><a href="mailto:virtualtutor24@gmail.com" class="button style3 large">Email for rates and booking!</a></li>
 					</ul>
 				</section>
 
@@ -68,7 +68,7 @@ function App() {
 												<h3 class="icon solid fa-sync">Lap top video conference with screen share</h3>
 												<p>Another method that I have found to be effective for tutoring when a student is working on problems on their computer is to share their screen with me on a program such as google meet or zoom. The students can verbally walk through their thought processes while we work through an assignment online. </p>
 											</section>
-										</div>							<a href="index.html"  class="image featured"><ReactPlayer url= "https://www.youtube.com/watch?v=HADMYIr-X6k"/>	</a>				
+										</div>							<a href="index.html"  class="image featured"><ReactPlayer url= "https://www.youtube.com/watch?v=9saxeb9eTes"/>	</a>				
 									</div>
 								</div> 
 							</section>
